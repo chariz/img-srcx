@@ -1,6 +1,6 @@
 {
 	"name": "img-srcx",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Tiny JSX helper function for high-DPI (Retina Display) images.",
 	"author": "Adam Demasi <adam@chariz.com>",
 	"license": "Apache-2.0",
